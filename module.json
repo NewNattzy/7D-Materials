@@ -1,0 +1,15 @@
+{
+   "name":"7D Materials",
+   "title":"7D Materials",
+   "description":"Шаблоны и дополнительные материалы",
+   "author":"FPGD Studio",
+   "version":"1.0.0",
+   "minimumCoreVersion":"11.0.0",
+   "compatibleCoreVersion":"12.0.0",
+   "scripts": [
+      "init.js"
+   ],
+   "url":"https://github.com/NewNattzy/7D-Materials",
+   "manifest":"",
+   "download":""
+}
